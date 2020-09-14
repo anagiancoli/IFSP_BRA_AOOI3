@@ -1,2 +1,4 @@
 # IFSP_BRA_AOOI3
-Aulas da Disciplina Análise Orientada a Objetos do Curso Análise e Desenvolvimento de Sistemas
+Aulas da Disciplina Análise Orientada a Objetos do Curso Análise e Desenvolvimento de Sistemas.
+Para ler os conteúdos publicados, faça o download e abra em qualquer navegador.
+Qualquer eventual dúvida, entre em contato por e-mail: paulagiancoli@ifsp.edu.br.
