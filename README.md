@@ -17,8 +17,12 @@ Bons estudos! 👋
 </div>
 
 
+
 <br>
 <br>
+
+ <hr>
+
 
 <div align="right">
   <span>
